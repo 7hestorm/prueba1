@@ -1,5 +1,7 @@
 from time import time
 
+print("Ete sechhh")
+
 # calculate the accuracy of input prompt
 def typingErrors(prompt):
     global iwords
